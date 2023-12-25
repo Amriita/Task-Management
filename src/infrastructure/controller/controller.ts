@@ -29,6 +29,11 @@ export class AuthController {
     private readonly taskUseCase: TaskUseCase,
   ) {}
 
+  @Get()
+  async checkHealth() {
+    return { status: 'ok' };
+  }
+
   @Post('/signup')
   @ApiOperation({ summary: 'Sign Up' })
   async handleSignUp(@Body() creatAuthDto: AuthDto) {
