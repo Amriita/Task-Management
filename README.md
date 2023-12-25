@@ -22,6 +22,7 @@ The project follows Bob Martin's Clean Architecture principles, ensuring separat
 ## API Documentation with Swagger
 Swagger is integrated to document the API endpoints. After starting the application:
 1. Navigate to [http://localhost:3000/api](http://localhost:3000/api) to access the Swagger UI.
+Deploy Heroku URL : http://task-management-assignment-eb77860041f2.herokuapp.com/api
 2. Explore and interact with the documented endpoints to understand their functionality.
 
 ## How to Set Up
