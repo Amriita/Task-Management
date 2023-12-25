@@ -28,7 +28,7 @@ Swagger is integrated to document the API endpoints. After starting the applicat
 
 1. Clone the project repository:
     ```
-      git clone https://github.com/Amriita/Task-Management.git
+      git clone [https://github.com/Amriita/Task-Management.git](https://github.com/Amriita/Task-Management.git)
     ```
 
 2. Install dependencies:
